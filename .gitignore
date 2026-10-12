@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+instance/
+.env
+
+# Node
+node_modules/
+dist/
